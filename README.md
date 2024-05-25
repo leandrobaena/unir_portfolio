@@ -1,2 +1,3 @@
-# unir_portfolio
-Actividad 1, Portafolio para la materia desarrollo de aplicaciones en red
+# Portafolio de Leandro Baena Torres
+
+Actividad 1, Construcción de un portafolio usando HTML y CSS, para la materia desarrollo de aplicaciones en red
