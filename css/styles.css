@@ -1,3 +1,28 @@
 body {
     background-color: #f1eded;
 }
+
+.main-content {
+    border-top: solid 3px #428BCA;
+    padding: 3px;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #FFF !important;
+    background-color: #428BCA;
+}
+
+.content-justify {
+    text-align: justify;
+}
+
+.foto {
+    width: 100%;
+    max-width: 230px;
+    height: auto;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #428BCA !important;
+    background-color: #f8f9fa !important;
+}
